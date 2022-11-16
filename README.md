@@ -1,4 +1,5 @@
-# Exercise to Book Chapter mapping
+# My solutions to the rustlings exercises
+## Exercise to Book Chapter mapping
 
 | Exercise               | Book Chapter        |
 | ---------------------- | ------------------- |
